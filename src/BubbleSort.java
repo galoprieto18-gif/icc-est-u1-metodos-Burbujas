@@ -20,7 +20,7 @@ public class BubbleSort {
     
     public void sortDescendente(int [] numeros){
         for(int i = 0 ; i < numeros.length; i++){
-              // comparacion
+              // comparación
             if (numeros [i] <numeros [j]){
                 si cumple -> intercambio
                 int aux = numeros [i];
@@ -38,7 +38,7 @@ public class BubbleSort {
     ///
     /// 
     /// [asc] TRUE ordenara ascendentemente 
-    /// [asc] FALSE ordenara descendente
+    /// [asc] FALSE ordenara descendentemente
     ///        
     public static void main(int[] numeros,boolean asc) {
         if (asc == true){
