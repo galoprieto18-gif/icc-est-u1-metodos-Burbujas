@@ -1,6 +1,6 @@
 public class App {
      Run/Debug
-     ejemplo//prueba de ordenamiento burbuja
+     
         public static void main(String[] args) throws Exception {
             int [] numeros = {-5,10,2,0,7};
             runBubbleSort();
