@@ -1,10 +1,10 @@
 # Universidad Politécnica Salesiana 
 
-## Proyecto : Metodos Ordenamiento
+## Proyecto : Métodos Ordenamiento
 ## Estudiante : Galo Prieto
 
-## Practica 1.1: Metodo Burbuja 
+## Practica 1.1: Método Burbuja 
 ## Fecha: 2026-04-20
-### Descripcion: 
+### Descripción: 
 
-Cree la clase ´BubbleSort´ que implemente el metodo de ordenamiento burbuja, tres metodos ascendente, descendente y un mixto por parametro. 
+Cree la clase ´BubbleSort´ que implemente el método de ordenamiento burbuja, tres metodos ascendente, descendente y un mixto por parametro. 
