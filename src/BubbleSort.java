@@ -35,7 +35,7 @@ public class BubbleSort {
              }
         System.out.println();
             
-    ///
+    /// Metodos de ordenamientos de enteros
     /// 
     /// [asc] TRUE ordenara ascendentemente 
     /// [asc] FALSE ordenara descendentemente
