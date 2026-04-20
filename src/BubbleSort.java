@@ -1,5 +1,5 @@
 public class BubbleSort {
-    publc BubbleSort(){
+    public BubbleSort(){
         //constructor
         public BubbleSort(){
              System.out.println("se creo la clase constructor");
