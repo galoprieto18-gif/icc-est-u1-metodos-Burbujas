@@ -1,6 +1,6 @@
 public class BubbleSort {
     public BubbleSort(){
-        //constructor
+        //constructor no tiene parametros 
         public BubbleSort(){
              System.out.println("se creo la clase constructor");
         }
